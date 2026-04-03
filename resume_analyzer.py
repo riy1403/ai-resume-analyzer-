@@ -1,9 +1,6 @@
 import re
 
-resume_text = """
-I have experience in Python, SQL, and Excel.
-Worked on data analysis and automation projects.
-"""
+resume_text = resume_text = input("Paste your resume text here: ")
 
 skills = ["Python", "SQL", "Excel", "Power BI", "Machine Learning", "AI"]
 
